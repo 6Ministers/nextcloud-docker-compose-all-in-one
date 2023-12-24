@@ -50,9 +50,8 @@ cd nextcloud
 docker-compose up -d
 ```
 
-Then open `https://nextcloude.domain.com:8080` to access Nextcloud All-in-One.
+Then open `https://nextcloude.domain.com:8080` to access **Nextcloud AIO Interface**.
 
-**NextCloude AIO Interface**
 
 ## Nextcloude container management
 
