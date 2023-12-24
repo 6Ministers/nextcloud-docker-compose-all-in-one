@@ -44,6 +44,18 @@ Go to the catalog
 cd nextcloud
 ```
 
+To change the domain in the `Caddyfile` to your own
+
+``` bash
+https://subdomain.your-domain:443 {
+    header Strict-Transport-Security max-age=31536000;
+    reverse_proxy localhost:11000
+	encode zstd gzip
+
+...	
+}
+```
+
 **Run nextcloud:**
 
 ``` bash
