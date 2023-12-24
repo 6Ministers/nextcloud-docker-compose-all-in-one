@@ -64,6 +64,8 @@ docker-compose up -d
 
 Then open `https://nextcloude.domain.com:8080` to access **Nextcloud AIO Interface**.
 
+There will be something like this.
+![Alt text](image.png)
 
 ## Nextcloude container management
 
