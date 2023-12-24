@@ -1,4 +1,4 @@
-# Installing NextCloude All In All with docker-compose.
+# Installing NextCloude All In One with docker-compose.
 
 ## Quick Installation
 
