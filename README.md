@@ -20,14 +20,14 @@ sudo apt-get purge needrestart
 Install docker and docker-compose:
 
 ``` bash
-curl -s https://raw.githubusercontent.com/6Ministers/nextcloud-docker-compose-all-in-one-onlyoffice/master/setup.sh | sudo bash -s
+curl -s https://raw.githubusercontent.com/6Ministers/nextcloud-docker-compose-all-in-one/master/setup.sh | sudo bash -s
 ```
 
 Download n8n instance:
 
 
 ``` bash
-curl -s https://raw.githubusercontent.com/6Ministers/nextcloud-docker-compose-all-in-one-onlyoffice/master/download.sh | sudo bash -s nextcloud
+curl -s https://raw.githubusercontent.com/6Ministers/nextcloud-docker-compose-all-in-one/master/download.sh | sudo bash -s nextcloud
 ```
 
 If `curl` is not found, install it:
