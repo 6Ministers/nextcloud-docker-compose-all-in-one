@@ -23,7 +23,7 @@ Install docker and docker-compose:
 curl -s https://raw.githubusercontent.com/6Ministers/nextcloud-docker-compose-all-in-one/master/setup.sh | sudo bash -s
 ```
 
-Download n8n instance:
+Download nextcloud instance:
 
 
 ``` bash
@@ -50,8 +50,9 @@ cd nextcloud
 docker-compose up -d
 ```
 
-Then open `https://nextcloude.domain.com:8080` to access n8n.
+Then open `https://nextcloude.domain.com:8080` to access Nextcloud All-in-One.
 
+**NextCloude AIO Interface**
 
 ## Nextcloude container management
 
