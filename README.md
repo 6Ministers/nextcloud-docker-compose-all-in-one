@@ -64,6 +64,7 @@ docker-compose up -d
 
 Then open `https://nextcloude.domain.com:8080` to access **Nextcloud AIO Interface**.
 
+On this page, you will need to specify the settings for your installation.
 There will be something like this.
 
 ![image](https://github.com/6Ministers/nextcloud-docker-compose-all-in-one/assets/11208423/2b41c1e2-2ae8-4b81-bdfa-816c131085d7)
